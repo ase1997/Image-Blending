@@ -1,0 +1,6 @@
+1) To run and get results from the code, make a copy of the original images in kddo_images folder or images of your choice and put them in the same location of the code.
+
+2) Run main.py on Spyder, Eclipse, Linux, or Anaconda terminal.
+
+3) The default padding type for the convolution is "reflect across the edge."  To test the code with another available type of padding, go to line 153 of "P1_q1.py" and change to a different padding type.
+
