@@ -14,7 +14,7 @@ NCSU ECE 558 (Digital Imaging Systems) Project 2
 ## About the Repo.
   - kddo_code contains **P1_q1.py**, **P2_Packages.py**, and **main.py** that are carefully commented 
     - **P1_q1.py** reuses the 2-D convolution and padding functions from **ECE 558 (Digital Imaging Systems) Project 1**.  The file is used as a Python module to import necessary helper functions in **P2_Packages.py**
-    - **P2_Packages.py** implements the LoG pyramid algorithm and is used as a Python odule to import helper functions in **main.py**
+    - **P2_Packages.py** implements the LoG pyramid algorithm and is used as a Python module to import helper functions in **main.py**
   - kddo_images contains folders of three image pairs.  Each pair contains a folder of orginal images and result images
   - Final report details the implementations of the functions in this project along with the results + analysis
 
