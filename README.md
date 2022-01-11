@@ -22,17 +22,17 @@ NCSU ECE 558 (Digital Imaging Systems) Project 2
 Khoa Do
 
 ## Reference
-[^1] M. Zhao, “Image Blending Using Laplacian Pyramids,” Becominghuman.ai, 14-May-2020. [Online]. Available: https://becominghuman.ai/image-blending-using-laplacian-pyramids-2f8e9982077f. [Accessed: 28-Oct-2021].
+[^1]: M. Zhao, “Image Blending Using Laplacian Pyramids,” Becominghuman.ai, 14-May-2020. [Online]. Available: https://becominghuman.ai/image-blending-using-laplacian-pyramids-2f8e9982077f. [Accessed: 28-Oct-2021].
 
-[^2] F. Projcheski, “How to Blend Images Using Gaussian and Laplacian Pyramid,” Laconicml.com, 25-Jul-2020. [Online]. Available: https://laconicml.com/blend-images-laplacian-pyramid/. [Accessed: 28-Oct-2021].
+[^2]: F. Projcheski, “How to Blend Images Using Gaussian and Laplacian Pyramid,” Laconicml.com, 25-Jul-2020. [Online]. Available: https://laconicml.com/blend-images-laplacian-pyramid/. [Accessed: 28-Oct-2021].
 
-^[3] I. Nader, “Image Blending Using Pyramids in OpenCV Python,” Morioh.com, Jun-2021. [Online]. Available: https://morioh.com/p/1e6a4d2d950c. [Accessed: 28-Oct-2021].
+^[3]: I. Nader, “Image Blending Using Pyramids in OpenCV Python,” Morioh.com, Jun-2021. [Online]. Available: https://morioh.com/p/1e6a4d2d950c. [Accessed: 28-Oct-2021].
 
-[^4] Kang and Atul, “Image Pyramids OpenCV Python,” Theailearner.com, 19-Aug-2019. [Online]. Available: https://theailearner.com/tag/image-pyramids-opencv-python/. [Accessed: 28-Oct-2021].
+[^4]: Kang and Atul, “Image Pyramids OpenCV Python,” Theailearner.com, 19-Aug-2019. [Online]. Available: https://theailearner.com/tag/image-pyramids-opencv-python/. [Accessed: 28-Oct-2021].
 
-[^5] https://github.com/PadovaY/pyramid_blend.
+[^5]: https://github.com/PadovaY/pyramid_blend.
 
-[^6] https://github.com/jagracar/OpenCV-python-tests.
+[^6]: https://github.com/jagracar/OpenCV-python-tests.
 
 ## Additional Notes
 N/A
