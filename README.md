@@ -18,7 +18,7 @@ NCSU ECE 558 (Digital Imaging Systems) Project 2
   - kddo_images contains folders of three image pairs.  Each pair contains a folder of orginal images and result images
   - Final report details the implementations of the functions in this project along with the results + analysis
 
-## Author:
+## Author
 Khoa Do
 
 ## Reference
