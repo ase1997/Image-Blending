@@ -6,7 +6,7 @@
 NCSU ECE 558 (Digital Imaging Systems) Project 2
   - Implement functions for Gaussian/Laplacian pyramid image blending in Python
 
-## Dependencies:
+## Dependencies
   - numpy
   - cv2
   - Spyder IDE (used), Linux, or Anaconda on Windows 10 Education
